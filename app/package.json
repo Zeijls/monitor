@@ -1,5 +1,5 @@
 {
-  "name": "functional-programming",
+  "name": "monitor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,9 +13,7 @@
     "countup.js": "^2.0.4",
     "d3": "^5.15.0",
     "in-view": "^0.6.1",
-    "rollup-plugin-browsersync": "^1.1.0",
-    "typed.js": "^2.0.11",
-    "waypoints": "^4.0.1"
+    "rollup-plugin-browsersync": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.3",

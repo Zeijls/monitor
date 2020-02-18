@@ -1,8 +1,5 @@
 .cijfer-text-container {
 	margin-top: 1em;
-	// @include mq("desktop"){
-	// 	margin-top: 5em;
-	// }
 	.numbers {
 		display: flex;
 		@include mq("desktop") {
@@ -46,6 +43,9 @@
 			}
 			.blue {
 				background-color: $color-blue;
+			}
+			.yellow {
+				background-color: $color-yellow;
 			}
 			p {
 				margin: 0;
